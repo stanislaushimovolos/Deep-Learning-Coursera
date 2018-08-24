@@ -1,4 +1,4 @@
-# Deep-Learnging-Coursera
+# Deep Learnging Coursera
 Deep Learning Specialization by Andrew Ng on Coursera.
 
 Course 1: Neural Networks and Deep Learning
