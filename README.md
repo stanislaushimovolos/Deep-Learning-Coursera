@@ -12,4 +12,6 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
 
  - [Week 1 - Initialization](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Initialization.ipynb)
  - [Week 1 - Regularization](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Regularization%2B-%2Bv2.ipynb)
- - [Week 1 - Gradient Checking](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Gradient%2BChecking%2Bv1.ipynb)  
+ - [Week 1 - Gradient Checking](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Gradient%2BChecking%2Bv1.ipynb)
+ - [Week 2 - Optimization](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Optimization%2Bmethods.ipynb) 
+ - [Week 3 - Tensorflow](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ImprovingDeepNeuralNetworks/Tensorflow%2BTutorial.ipynb) 
