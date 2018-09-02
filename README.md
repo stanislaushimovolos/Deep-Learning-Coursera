@@ -22,5 +22,6 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
  - [Week 1 - Convolutional Model: step by step](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
  - [Week 1 - Convolutional model: application](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
  - [Week 2 - Keras Tutorial - The Happy House](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+  -[Week 2 - Residual Networks](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/tree/master/ConvolutionalNeuralNetworks)
  
  
