@@ -25,6 +25,6 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
  - [Week 2 - Deep convolutional models: case studies - Residual Networks](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Residual%2BNetworks%2B-%2Bv2.ipynb)
  - [Week 3 - Object detection - Car detection](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
  - [Week 4 - Art generation with Neural Style Transfer](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
- - [Week 4 -Face Recognition for the Happy House](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+ - [Week 4 - Face Recognition for the Happy House](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
  
  
