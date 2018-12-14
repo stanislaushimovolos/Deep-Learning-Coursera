@@ -26,5 +26,13 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
  - [Week 3 - Object detection - Car detection](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
  - [Week 4 - Art generation with Neural Style Transfer](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
  - [Week 4 - Face Recognition for the Happy House](https://github.com/stanislaushimovolos/Deep-Learnging-Coursera/blob/master/ConvolutionalNeuralNetworks/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+  
+ 
+ Course 5: Sequence Models
+ - [Week 1 - Building your Recurrent Neural Network - Step by Step](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+ - [Week 1 - Character level language model - Dinosaurus land](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+ - [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+ 
+ 
  
  
