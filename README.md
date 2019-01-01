@@ -32,6 +32,8 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
  - [Week 1 - Building your Recurrent Neural Network - Step by Step](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
  - [Week 1 - Character level language model - Dinosaurus land](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
  - [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+ - [Week 2 - Operations on word vectors - Debiasing](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+ - [Week 2 - Emojify](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Emojify%2B-%2Bv2.ipynb)
  
  
  
