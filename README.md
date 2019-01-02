@@ -34,6 +34,8 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
  - [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
  - [Week 2 - Operations on word vectors - Debiasing](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
  - [Week 2 - Emojify](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Emojify%2B-%2Bv2.ipynb)
+ - [Week 3 - Neural Machine Translation with Attention](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+ - [Week 3 - Trigger Word Detection](https://github.com/stanislaushimovolos/Deep-Learning-Coursera/blob/master/Recurrent%20Neural%20Networks/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
  
  
  
